@@ -1,0 +1,32 @@
+PODS:
+  - Actions (3.0.1)
+  - Alamofire (5.6.1)
+  - DropDown (2.3.2)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Actions (~> 3.0.1)
+  - Alamofire
+  - DropDown (= 2.3.2)
+  - SVProgressHUD
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Actions
+    - Alamofire
+    - DropDown
+    - SVProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Actions: 696288b71e88903a69ec8d04123df05ad16125dc
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  DropDown: 7f87abecc28f9b4edad810fe1211c5c018c257e5
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 474775ad24a5c10035c572bf87c3bdddf3eb295c
+
+COCOAPODS: 1.11.3
