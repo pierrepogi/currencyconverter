@@ -156,7 +156,7 @@ class ConverterViewController: UIViewController {
                 strConversionType = ConverterModel.type.free.rawValue
                 
             } else {
-                dobCommission = (dobSell * 0.007)
+                dobCommission = (dobSell * CURRENCIES.dobCommision)
                 dobSell = dobSell - dobCommission
                 strConversionType = ConverterModel.type.commission.rawValue
             }
