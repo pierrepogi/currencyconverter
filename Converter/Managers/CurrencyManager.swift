@@ -15,8 +15,6 @@ class CurrencyManager {
         } else {
             var isValid: Bool = false
             for res in list {
-                print(res.first!)
-                print(res.first?.first)
                 if res.first! == currency {
                     isValid = true
                     break
